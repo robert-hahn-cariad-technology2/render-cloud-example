@@ -1,10 +1,10 @@
-alembic==1.6.5
+alembic==1.10.x
 click==8.0.1
-Flask==1.1.2
+Flask==2.3.x
 Flask-Cors==3.0.10
 Flask-Migrate==2.7.0
 Flask-Script==2.0.6
-Flask-SQLAlchemy==2.5.1
+Flask-SQLAlchemy==3.0.x
 greenlet==1.1.0
 gunicorn==20.1.0
 itsdangerous==2.0.1
